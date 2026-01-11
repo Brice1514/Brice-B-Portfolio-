@@ -66,7 +66,8 @@ The dashboard provides an accessible and scalable tool for tracking heat-related
 **Domain:** Infectious Disease Epidemiology
 
 ### Description
-This project visualizes person-to-person disease transmission using network analysis techniques. The resulting graph illustrates how cases are epidemiologically linked and how disease spreads through a population over time.
+This project visualizes person-to-person disease transmission using network analysis techniques. The resulting network graph illustrates how cases are epidemiologically linked and how disease spreads through a population over time, with node size representing the relative number of secondary transmissions originating from each case.
+
 
 **Visualization Preview**
 
