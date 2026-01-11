@@ -37,9 +37,18 @@ The resulting database provides a robust foundation for population health analys
 ### Description
 This project involved updating and expanding an existing Heat-Related Illness (HRI) dashboard to incorporate data from 2023 and 2024. The dashboard supports public health monitoring of heat-related morbidity and enables timely situational awareness during extreme heat events.
 
+**Dashboard Previews**
+
+**2023 Heat-Related Illness Dashboard**
+![Heat-Related Illness Dashboard 2023](HRI_Report_Completed%20-%202023.pdf.png)
+
+**2024 Heat-Related Illness Dashboard**
+![Heat-Related Illness Dashboard 2024](HRI_Report_Completed%20-%202024.pdf.png)
+
 **Project Files**
-- [Heat-Related Illness Dashboard – 2023 (Power BI)](HRI_Report_Completed - 2023.pbix)
-- [Heat-Related Illness Dashboard – 2024 (Power BI)](HRI_Report_Completed - 2024.pbix)
+- [Heat-Related Illness Dashboard – 2023 (Power BI)](HRI_Report_Completed%20-%202023.pbix)
+- [Heat-Related Illness Dashboard – 2024 (Power BI)](HRI_Report_Completed%20-%202024.pbix)
+
 
 ### Key Contributions
 - Integrated and validated multi-year HRI surveillance data
@@ -59,8 +68,14 @@ The dashboard provides an accessible and scalable tool for tracking heat-related
 ### Description
 This project visualizes person-to-person disease transmission using network analysis techniques. The resulting graph illustrates how cases are epidemiologically linked and how disease spreads through a population over time.
 
+**Visualization Preview**
+
+![Disease Transmission Network](Epidemiology%20Transmission%20Network.png)
+
 **Project Files**
-- [Disease Transmission Network Visualization (PDF)](Epidemiology Transmission Network PDF.pdf)
+- [Disease Transmission Network Visualization (PDF)](Epidemiology%20Transmission%20Network%20PDF.pdf)
+
+
 
 ### Key Contributions
 - Constructed transmission networks representing individual-level case connections
