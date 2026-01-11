@@ -13,6 +13,9 @@ This repository highlights selected projects demonstrating experience in public 
 ### Description
 This project involved integrating inpatient, outpatient, and emergency department electronic health records from 2014 to 2021 into a single analytical database to support diagnosis-based analysis.
 
+**Project Files**
+- *(Code and SQL queries available upon request or in linked repositories)*
+  
 ### Key Contributions
 - Cleaned, standardized, and merged large-scale healthcare datasets across care settings using R  
 - Designed and populated a relational SQL database for efficient querying  
@@ -23,6 +26,7 @@ This project involved integrating inpatient, outpatient, and emergency departmen
 ### Outcome
 The resulting database provides a robust foundation for population health analysis, utilization studies, and clinical or operational dashboards.
 
+
 ---
 
 ## Project 2: Heat-Related Illness Surveillance Dashboard (2023–2024)
@@ -32,6 +36,10 @@ The resulting database provides a robust foundation for population health analys
 
 ### Description
 This project involved updating and expanding an existing Heat-Related Illness (HRI) dashboard to incorporate data from 2023 and 2024. The dashboard supports public health monitoring of heat-related morbidity and enables timely situational awareness during extreme heat events.
+
+**Project Files**
+- [Heat-Related Illness Dashboard – 2023 (Power BI)](HRI_Report_Completed - 2023.pbix)
+- [Heat-Related Illness Dashboard – 2024 (Power BI)](HRI_Report_Completed - 2024.pbix)
 
 ### Key Contributions
 - Integrated and validated multi-year HRI surveillance data
@@ -50,6 +58,9 @@ The dashboard provides an accessible and scalable tool for tracking heat-related
 
 ### Description
 This project visualizes person-to-person disease transmission using network analysis techniques. The resulting graph illustrates how cases are epidemiologically linked and how disease spreads through a population over time.
+
+**Project Files**
+- [Disease Transmission Network Visualization (PDF)](Epidemiology Transmission Network PDF.pdf)
 
 ### Key Contributions
 - Constructed transmission networks representing individual-level case connections
@@ -70,6 +81,8 @@ The visualization supports outbreak investigation by identifying transmission cl
 - Reproducible Data Analysis in R  
 
 ---
+
+> **Note:** Power BI files (.pbix) are provided for download and may be opened locally in Microsoft Power BI Desktop.
 
 ## Contact
 
