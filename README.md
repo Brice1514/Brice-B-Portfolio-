@@ -1,4 +1,4 @@
-# Brice-s-Portfolio-
+# Brice-B-Portfolio-
 # Public Health Data Analytics Portfolio
 
 This repository highlights selected projects demonstrating experience in public health analytics, epidemiology, data engineering, and data visualization. The projects focus on transforming complex health and surveillance data into actionable insights using R, SQL, and Microsoft Power BI.
