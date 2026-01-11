@@ -7,16 +7,18 @@ This repository highlights selected projects demonstrating experience in public 
 
 ## Project 1: Electronic Health Data Integration and ICD-10 Analytics (2014–2021)
 
-**Tools:** R, SQL Server  
+**Tools:** R, SQL Server, Microsoft Power BI 
 **Domain:** Health Data Engineering and Analytics
 
 ### Description
 This project involved integrating inpatient, outpatient, and emergency department electronic health records from 2014 to 2021 into a single analytical database to support diagnosis-based analysis.
 
 ### Key Contributions
-- Cleaned, standardized, and merged large-scale healthcare datasets across care settings using R
-- Designed and populated a relational SQL database for efficient querying
-- Queried ICD-10-CM diagnosis codes to support downstream analytical dashboards and reporting
+- Cleaned, standardized, and merged large-scale healthcare datasets across care settings using R  
+- Designed and populated a relational SQL database for efficient querying  
+- Queried ICD-10-CM diagnosis codes to generate analytic datasets  
+- Developed Microsoft Power BI visualizations to surface key trends and insights from ICD-10 diagnosis data for dashboard reporting
+
 
 ### Outcome
 The resulting database provides a robust foundation for population health analysis, utilization studies, and clinical or operational dashboards.
