@@ -12,9 +12,6 @@ This repository highlights selected projects demonstrating experience in public 
 
 ### Description
 This project involved integrating inpatient, outpatient, and emergency department electronic health records from 2014 to 2021 into a single analytical database to support diagnosis-based analysis.
-
-**Project Files**
-- *(Code and SQL queries available upon request or in linked repositories)*
   
 ### Key Contributions
 - Cleaned, standardized, and merged large-scale healthcare datasets across care settings using R  
@@ -97,8 +94,6 @@ The visualization supports outbreak investigation by identifying transmission cl
 - Reproducible Data Analysis in R  
 
 ---
-
-> **Note:** Power BI files (.pbix) are provided for download and may be opened locally in Microsoft Power BI Desktop.
 
 ## Contact
 
